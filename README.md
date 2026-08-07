@@ -1,6 +1,6 @@
 # ¡Hola! Soy Angel Villalobos
 
-Analista de Business Intelligence y Especialista en Automatización de Procesos con amplia experiencia en el diseño y despliegue de soluciones tecnológicas corporativas enfocadas en optimizar la eficiencia operativa, la calidad de datos y la integración de Inteligencia Artificial en flujos reales de negocio.
+Analista de Business Intelligence y Especialista en Power Platform. Me dedico a optimizar la eficiencia operativa y la calidad de datos de negocio mediante soluciones low-code, análisis geoespacial y la integración de herramientas de Inteligencia Artificial para acelerar flujos de trabajo corporativos.
 
 ---
 
@@ -9,36 +9,36 @@ Analista de Business Intelligence y Especialista en Automatización de Procesos 
 ![Microsoft Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 ![Microsoft Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=microsoftpowerapps&logoColor=white)
 ![Microsoft Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white)
+![Power Query / M](https://img.shields.io/badge/Power_Query-005080?style=flat-square&logo=microsoft&logoColor=white)
 ![Dataverse](https://img.shields.io/badge/Dataverse-002050?style=flat-square&logo=microsoft&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
+![Kepler.gl](https://img.shields.io/badge/Kepler.gl-000000?style=flat-square&logo=uber&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Excel / VBA](https://img.shields.io/badge/Excel-1F7246?style=flat-square&logo=microsoftexcel&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
 ##  Proyectos Destacados
 
-### [Geovisión — Enterprise Low-Code Solutions](https://github.com/AngelDVP/Geovision-PowerApps)
-Solución corporativa end-to-end de geolocalización y auditoría en terreno para el registro de clientes.
-* **Tecnologías:** Power Apps, Power Automate, Dataverse, QGIS.
-* **Impacto:** Saneamiento previo al ingreso del ERP (QAD/SOM) y ordenamiento espacial de más de 19.000 clientes activos en 90 zonas de venta.
+### [Geovisión — Low-Code & Geolocation App](https://github.com/AngelDVP/Geovision-PowerApps)
+Solución de geolocalización y auditoría en terreno para el registro de clientes.
+* **Herramientas:** Power Apps, Power Automate, Dataverse, QGIS.
+* **Impacto:** Saneamiento de coordenadas GPS en terreno previo al ingreso al ERP y ordenamiento territorial de más de 19.000 clientes activos en 90 zonas de venta.
 
-### [Invoice Rapel Automation](https://github.com/AngelDVP/Invoice-Rapel-Automation)
-Sistema de procesamiento inteligente de facturas por volumen (Rapel) mediante visión de IA.
-* **Tecnologías:** Python, OpenAI Vision, Power Automate, pandas/openpyxl.
-* **Impacto:** Automatización de extracción y cruce de datos con la BBDD de provisiones, reduciendo el ciclo de procesamiento contable de **3 días a 20 minutos** por lote.
+### [Procesamiento Automatizado con Inteligencia Artificial](https://github.com/AngelDVP/Invoice-Rapel-Automation)
+Diseño de flujos automatizados para la extracción y asignación inteligente de facturas comerciales.
+* **Herramientas:** Power Automate, OpenAI API (Vision).
+* **Impacto:** Diseño lógico de integración para realizar OCR cognitivo de facturas digitalizadas y cruzar datos con bases de datos de provisiones, reduciendo el ciclo contable de **3 días a 20 minutos**.
 
 ### [ATS Resume Optimizer](https://github.com/AngelDVP/ATS-Resume-Optimizer)
 Framework para la auditoría, optimización y formateo de currículums enfocado en superar filtros ATS comerciales.
-* **Tecnologías:** HTML/CSS (ATS-safe), Prompt Engineering.
-* **Impacto:** Herramientas de diagnóstico de keywords y estructura de currículums para el posicionamiento estratégico de perfiles técnicos.
+* **Herramientas:** HTML/CSS (ATS-safe), Prompt Engineering.
+* **Impacto:** Herramientas de diagnóstico de keywords y estructura de currículums para el posicionamiento de perfiles profesionales.
 
 ---
 
-##  Foco de Desarrollo
+##  Foco de Desarrollo y Valor
 
-* **Automatización Segura:** Integración de APIs de Inteligencia Artificial (OpenAI, Gemini) en entornos tradicionales corporativos para agilizar flujos repetitivos.
-* **Saneamiento de Datos:** Construcción de aplicaciones offline-first en terreno enfocadas en asegurar la consistencia y veracidad de la información antes de la inyección al ERP corporativo.
-* **Análisis Territorial:** Modelado espacial y optimización geoespacial para la planificación logística y de ventas.
+* **Eficiencia Low-Code:** Creación de aplicaciones y automatizaciones ágiles utilizando el ecosistema de Microsoft Power Platform para reducir el trabajo administrativo manual.
+* **Data Quality:** Implementación de reglas y validaciones directamente en terreno para asegurar que la base de datos de la empresa se mantenga limpia y útil.
+* **Visualización Geográfica:** Uso de QGIS y Kepler.gl para convertir datos crudos de despacho y venta en mapas interactivos útiles para la toma de decisiones.

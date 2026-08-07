@@ -18,7 +18,7 @@ Analista de Business Intelligence y Especialista en Automatización de Procesos 
 
 ---
 
-## 🚀 Proyectos Destacados
+##  Proyectos Destacados
 
 ### [Geovisión — Enterprise Low-Code Solutions](https://github.com/AngelDVP/Geovision-PowerApps)
 Solución corporativa end-to-end de geolocalización y auditoría en terreno para el registro de clientes.
@@ -37,7 +37,7 @@ Framework para la auditoría, optimización y formateo de currículums enfocado 
 
 ---
 
-## 📈 Foco de Desarrollo
+##  Foco de Desarrollo
 
 * **Automatización Segura:** Integración de APIs de Inteligencia Artificial (OpenAI, Gemini) en entornos tradicionales corporativos para agilizar flujos repetitivos.
 * **Saneamiento de Datos:** Construcción de aplicaciones offline-first en terreno enfocadas en asegurar la consistencia y veracidad de la información antes de la inyección al ERP corporativo.

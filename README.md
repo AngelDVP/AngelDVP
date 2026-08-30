@@ -20,7 +20,7 @@ Analista de Business Intelligence y Especialista en Power Platform. Me dedico a 
 
 ##  Proyectos Destacados
 
-### [Geovisión — Low-Code & Geolocation App](https://github.com/AngelDVP/Geovision-PowerApps)
+### [[Geovisión — Low-Code & Geolocation App](https://github.com/AngelDVP/Geovision-PowerApps)](https://github.com/AngelDVP/Rappel-Automation)
 Solución de geolocalización y auditoría en terreno para el registro de clientes.
 * **Herramientas:** Power Apps, Power Automate, Dataverse, QGIS.
 * **Impacto:** Saneamiento de coordenadas GPS en terreno previo al ingreso al ERP y ordenamiento territorial de más de 19.000 clientes activos en 90 zonas de venta.

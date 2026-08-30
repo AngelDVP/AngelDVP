@@ -20,17 +20,17 @@ Analista de Business Intelligence y Especialista en Power Platform. Me dedico a 
 
 ##  Proyectos Destacados
 
-### [[Geovisión — Low-Code & Geolocation App](https://github.com/AngelDVP/Geovision-PowerApps)](https://github.com/AngelDVP/Rappel-Automation)
+### [[Geovisión — Low-Code & Geolocation App](https://github.com/AngelDVP/Enterprise-LowCode-Solutions)]
 Solución de geolocalización y auditoría en terreno para el registro de clientes.
 * **Herramientas:** Power Apps, Power Automate, Dataverse, QGIS.
 * **Impacto:** Saneamiento de coordenadas GPS en terreno previo al ingreso al ERP y ordenamiento territorial de más de 19.000 clientes activos en 90 zonas de venta.
 
-### [Procesamiento Automatizado con Inteligencia Artificial](https://github.com/AngelDVP/Invoice-Rapel-Automation)
+### [Procesamiento Automatizado con Inteligencia Artificial](https://github.com/AngelDVP/Rappel-Automation)
 Diseño de flujos automatizados para la extracción y asignación inteligente de facturas comerciales.
 * **Herramientas:** Power Automate, OpenAI API (Vision).
 * **Impacto:** Diseño lógico de integración para realizar OCR cognitivo de facturas digitalizadas y cruzar datos con bases de datos de provisiones, reduciendo el ciclo contable de **3 días a 20 minutos**.
 
-### [ATS Resume Optimizer](https://github.com/AngelDVP/ATS-Resume-Optimizer)
+### [ATS Resume Optimizer](https://github.com/AngelDVP/ATS-Optimizer)
 Framework para la auditoría, optimización y formateo de currículums enfocado en superar filtros ATS comerciales.
 * **Herramientas:** HTML/CSS (ATS-safe), Prompt Engineering.
 * **Impacto:** Herramientas de diagnóstico de keywords y estructura de currículums para el posicionamiento de perfiles profesionales.

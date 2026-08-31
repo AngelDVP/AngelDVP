@@ -15,6 +15,8 @@ Analista de Business Intelligence y Especialista en Power Platform. Me dedico a 
 ![Kepler.gl](https://img.shields.io/badge/Kepler.gl-000000?style=flat-square&logo=uber&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Excel / VBA](https://img.shields.io/badge/Excel-1F7246?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
